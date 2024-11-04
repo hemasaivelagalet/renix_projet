@@ -24,6 +24,7 @@ Features
     Robust Search: Supports similarity-based retrieval of information on topics like flood preparation, earthquake safety, and fire response.
 
 -Setup Instructions
+
   1.Clone the Repository
   
     git clone https://github.com/your-username/emergency-preparedness-chatbot.git 
