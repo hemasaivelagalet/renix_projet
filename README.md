@@ -16,13 +16,13 @@ Table of Contents
 
 The Emergency Preparedness Chatbot is an AI-powered chatbot designed to provide timely and relevant information to users preparing for or responding to various emergencies. It uses advanced machine learning models and a FAISS index to offer efficient, context-aware responses. The chatbot is developed using FastAPI (or Gradio) and can be hosted locally or on a cloud platform.
 
-### Features
+### Features and functionalities
 
     Contextual Awareness: Maintains conversation history to provide responses relevant to previous user queries.
     Efficient Information Retrieval: Uses FAISS indexing to quickly retrieve information from an emergency preparedness dataset.
     Conversational Interface: Access the chatbot through a REST API (FastAPI) or a user-friendly Gradio web interface.
     Robust Search: Supports similarity-based retrieval of information on topics like flood preparation, earthquake safety, and fire response.
-
+     
 ### Setup Instructions
 
   1.Clone the Repository
