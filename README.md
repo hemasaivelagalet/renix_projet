@@ -59,13 +59,14 @@ Ensure the following configuration variables are set in your environment if need
 ### Usage Guide
 Running the Chatbot with FastAPI
 
-    Start the FastAPI server:
-    -uvicorn main:app --reload
-    -Access the API documentation at http://127.0.0.1:8000/docs to interact with the chatbot using the /query/ endpoint.
+  Start the FastAPI server:
+
+    uvicorn main:app --reload
+    Access the API documentation at http://127.0.0.1:8000/docs to interact with the chatbot using the /query/ endpoint.
 
 Running the Chatbot with Gradio (Optional)
 
-    Start the Gradio interface:
+ Start the Gradio interface
 
     python gradio_interface.py
 
