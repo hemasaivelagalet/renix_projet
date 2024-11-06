@@ -1,7 +1,7 @@
 # Emergency Preparedness Chatbot
 
 Welcome to the Emergency Preparedness Chatbot, designed to assist users with emergency preparedness information. This chatbot leverages a conversational interface to provide context-aware, informative responses on topics like disaster communications, flood preparation, earthquake safety, and fire safety.
-Table of Contents
+Table of Contents:
 
     Project Overview
     Features
@@ -62,7 +62,7 @@ Running the Chatbot with FastAPI
   Start the FastAPI server:
 
     uvicorn main:app --reload
-    Access the API documentation at http://127.0.0.1:8000/docs to interact with the chatbot using the /query/ endpoint.
+ Access the API documentation at http://127.0.0.1:8000/docs to interact with the chatbot using the /query/ endpoint.
 
 Running the Chatbot with Gradio (Optional)
 
@@ -70,7 +70,7 @@ Running the Chatbot with Gradio (Optional)
 
     python gradio_interface.py
 
-    A local web interface will open, where you can interact with the chatbot directly.
+ A local web interface will open, where you can interact with the chatbot directly.
 
 Example Queries
 
