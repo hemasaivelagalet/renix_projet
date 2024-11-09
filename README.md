@@ -64,17 +64,22 @@ Running the Chatbot with FastAPI
     uvicorn main:app --reload
  Access the API documentation at http://127.0.0.1:8000/docs to interact with the chatbot using the /query/ endpoint.
 
-Running the Chatbot with Gradio (Optional)
+ if OMP: Error #15:
+ 
+    set KMP_DUPLICATE_LIB_OK=TRUE
+    
+Running the Chatbot with query
 
  Start the query interface
 
     python python query_interface.py
+    
+ or else follow the link :- http://127.0.0.1:7860/
  A local web interface will open, where you can interact with the chatbot directly.
 
 Example Queries
 
     User: "How do I prepare for an earthquake?"
-    Chatbot: "To prepare for an earthquake, secure heavy items, create a family plan, and keep emergency kits ready. Would you like more detailed steps?"
 
 ### Project Structure
 
