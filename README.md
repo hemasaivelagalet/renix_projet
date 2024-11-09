@@ -66,10 +66,9 @@ Running the Chatbot with FastAPI
 
 Running the Chatbot with Gradio (Optional)
 
- Start the Gradio interface
+ Start the query interface
 
-    python gradio_interface.py
-
+    python python query_interface.py
  A local web interface will open, where you can interact with the chatbot directly.
 
 Example Queries
