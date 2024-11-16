@@ -15,3 +15,6 @@ async def query_chatbot(query: Query):
     return {"response": response}
 
 # To run the API, execute this file: uvicorn main:app --reload
+@app.get("/")
+async def root():
+    return {"message": "Welcome to the Emergency Preparedness Chatbot!"}
