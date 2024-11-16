@@ -72,7 +72,7 @@ Running the Chatbot with query
 
  Start the query interface
 
-    python python query_interface.py
+    python query_interface.py
     
  or else follow the link :- http://127.0.0.1:7860/
  A local web interface will open, where you can interact with the chatbot directly.
