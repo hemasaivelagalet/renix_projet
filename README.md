@@ -28,7 +28,7 @@ The Emergency Preparedness Chatbot is an AI-powered chatbot designed to provide 
   1.Clone the Repository
   
     git clone https://github.com/hemasaivelagalet/renix_projet.git 
-    cd emergency-preparedness-chatbot
+    cd renix_projet
   2.Set Up a Virtual Environment
   
     python -m venv venv 
