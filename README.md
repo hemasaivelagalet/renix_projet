@@ -35,7 +35,7 @@ The Emergency Preparedness Chatbot is an AI-powered chatbot designed to provide 
   
     python -m venv venv 
     source venv/bin/activate  # On Windows, use venv\Scripts\activate  
-
+note: the path you stored the files and the path you opening a virtual environment should be same
   3.Install Dependencies
   
     Install the required packages listed in requirements.txt: 
