@@ -25,10 +25,12 @@ The Emergency Preparedness Chatbot is an AI-powered chatbot designed to provide 
      
 ### Setup Instructions
 
-  1.Clone the Repository
+  1.Download the Repository in your computer
   
-    git clone https://github.com/hemasaivelagalet/renix_projet.git 
-    cd renix_projet
+    Navigate to the main page of the repository on GitHub.
+    Click on the Code button (usually green).
+    Select Download ZIP.
+    The repository will be downloaded as a .zip file that you can extract on your computer.
   2.Set Up a Virtual Environment
   
     python -m venv venv 
